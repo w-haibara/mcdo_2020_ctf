@@ -1,2 +1,5 @@
-# mcdo_2020_ctf
-セキュリティ・ミニキャンプ in 北海道 2020 『CTF形式で学ぶ Cプログラムの脆弱性』の資料
+# mc_do_ctf
+
+./install.sh
+./setup.sh
+
